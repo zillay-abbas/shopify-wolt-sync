@@ -1,0 +1,19 @@
+{
+  "name": "shopify-wolt-sync",
+  "version": "1.0.0",
+  "description": "sync shopify data with wolt menu ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zillay",
+  "license": "ISC",
+  "dependencies": {
+    "@shopify/shopify-api": "^11.3.0",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "esm": "^3.2.25",
+    "express": "^4.19.2",
+    "raw-body": "^3.0.0"
+  }
+}
